@@ -2,6 +2,7 @@
 Project with calculating parameters of SIR equation for Poland <br>
 ## The project contains short manual on:
 ### Poland part
+![Alt text](images/poland_total.png?raw=true "Poland total number of cases")
 1. Get data from worldometer <br> 
 2. Edit data and calculate parameters of SIRD model <br>
 3. Forecasting of SIRD outocem in 4 periods in Poland <br>
